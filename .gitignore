@@ -1,4 +1,5 @@
 # Ignore editor artefacts
+.DS_Store
 /.dir-locals.el
 
 # Top level excludes
